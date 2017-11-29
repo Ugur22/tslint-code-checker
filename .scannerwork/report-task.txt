@@ -1,0 +1,6 @@
+projectKey=my:tslint-example
+serverUrl=http://192.168.99.100:32776
+serverVersion=6.5.0.27846
+dashboardUrl=http://192.168.99.100:32776/dashboard/index/my:tslint-example
+ceTaskId=AWAG_aBLR8M6sdu4YQwu
+ceTaskUrl=http://192.168.99.100:32776/api/ce/task?id=AWAG_aBLR8M6sdu4YQwu
