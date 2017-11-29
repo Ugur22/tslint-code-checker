@@ -1,9 +1,12 @@
 {
-  "extends": [
-    "tslint:recommended",
-    "tslint-sonarts"
-  ],
-  "jsRules": {},
-  "rules": {},
-  "rulesDirectory": []
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended",
+        "tslint-sonarts"
+    ],
+    "jsRules": {},
+    "rules": {
+
+    },
+    "rulesDirectory": []
 }
